@@ -49,9 +49,9 @@ const FAQ = () => {
         <section id="faq" className="py-24 px-6 relative bg-secondary overflow-hidden">
             {/* Background Image with Overlay */}
             <div className="absolute inset-0 z-0">
-                <div className="absolute inset-0 bg-secondary/80 z-10" />
+                <div className="absolute inset-0 bg-secondary/90 z-10 backdrop-blur-sm" />
                 <img
-                    src="/Zacks_Football/banner6.JPG"
+                    src="/Zacks_Football/banner6.webp"
                     alt="Background Ambience"
                     className="w-full h-full object-cover grayscale"
                 />

@@ -73,7 +73,7 @@ const Contact = () => {
                     <div className="absolute inset-0 bg-primary/20 mix-blend-overlay z-10" />
                     <div className="absolute inset-0 bg-gradient-to-l from-transparent to-secondary z-10" />
                     <img
-                        src="/Zacks_Football/Copy of DSC_7938.JPG"
+                        src="/Zacks_Football/player5.webp"
                         alt="Zack Kaseler Portrait"
                         className="w-full h-full object-cover object-top"
                     />
